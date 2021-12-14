@@ -13,7 +13,14 @@ check the status => Is it files are in .git or not > If not, initialised it by c
  Again check status > Use 'git commit -m "some note" > 'git log' to check the history.
 
 
+****** Stage and Unstage process ******
 
+staging: add --a or add . > git status
+Unstaging: git restore --staged file_name 
+
+****** Restoring file content if accidently deleted ******
+ git checkout -- file_name
+ 
 
 
 
