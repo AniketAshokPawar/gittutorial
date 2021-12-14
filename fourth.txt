@@ -1,0 +1,23 @@
+This is version 1 of my project.This is version 2 of my project.
+rm -rf .git = delete git repository
+
+
+****** If you want to change the directory ********
+
+pwd = present working directory > ls = list the content > cd = change the directory > pwd > ls
+
+
+****** Git status LifeCycle ******
+
+check the status => Is it files are in .git or not > If not, initialised it by command 'git init' > Check status by 'git status' > Add the files by 'git add --a' > 
+ Again check status > Use 'git commit -m "some note" > 'git log' to check the history.
+
+
+
+
+
+
+
+
+ 
+
